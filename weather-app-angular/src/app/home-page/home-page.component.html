@@ -1,0 +1,61 @@
+<div class="home-page">
+    <div class="home-page-layer-two">
+
+        <!-- image container -->
+        <div class="image-container">
+            <div class="image-container-layer-two">
+                
+            </div>
+        </div>
+
+        <!-- sign-in form -->
+        <div class="sign-in">
+            <div class="sign-in-layer-two">
+                <!-- welcome -->
+                <div class="welcome">
+                    <div class="welcome-span">
+                        <span>Welcome to Weather App</span>
+                    </div>
+                    
+                </div>
+                <div class="join-today">
+                    <div class="join-today-span">
+                        <span>Join Today.</span>
+                    </div>
+                </div>
+                <!-- sign in form -->
+                <form class="sign-in-form"
+                [formGroup]="loginForm"
+                (ngSubmit)="onSubmitLogin()">
+                    <div class="sign-in-form-layer-two">
+                        <input type="text" formControlName="email"  placeholder="Email" autocomplete="off">
+                        <input type="password" formControlName="password" placeholder="Password" autocomplete="off">
+                    </div>
+                    <div class="sign-in-button">
+                        <div class="sign-in-button-layer-two">
+                            <button class="btn btn-success" type="submit">Sign In</button>
+                        </div>
+                    </div>
+                </form>
+                <!-- new here -->
+                <div class="new-here">
+                    <div class="new-here-span">
+                        <span>New here?</span>
+                    </div>
+                </div>
+                <!-- sign-up button -->
+                <div class="sign-up-button">
+                    <div class="sign-up-button-layer-two">
+                        <button class="btn btn-warning" routerLink="register">Sign Up</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end of sign in form -->
+
+    </div>
+    <!-- <div class="register-form"
+    *ngIf="registerForm">
+        <app-register></app-register>
+    </div> -->
+</div>

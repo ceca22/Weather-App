@@ -1,0 +1,61 @@
+.register{
+    position: fixed;
+    top:0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(214, 212, 212, 0.76);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.register-layer-two{
+    width: 300px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+    border: 1px solid transparent;
+    background-color: rgb(255 255 97 / 87%);
+}
+
+.close-register{
+    padding:10px;
+}
+
+.complete-register{
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.create{
+    padding:10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.register-form, .register-button {
+    padding: 20px 20px 10px 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.register-form input, .register-button button{
+    margin:10px;
+    border-radius: 20px;
+    height: 35px;
+}
+
+.register-form input{
+    border: none;
+    padding-left: 10px;
+}
+
+.register-form input:focus{
+    outline: none;
+}

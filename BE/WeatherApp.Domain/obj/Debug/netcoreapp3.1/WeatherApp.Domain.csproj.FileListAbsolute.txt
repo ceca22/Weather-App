@@ -1,0 +1,23 @@
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\bin\Debug\netcoreapp3.1\WeatherApp.Domain.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\bin\Debug\netcoreapp3.1\WeatherApp.Domain.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\bin\Debug\netcoreapp3.1\WeatherApp.Domain.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\bin\Debug\netcoreapp3.1\WeatherApp.Domain.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\bin\Debug\netcoreapp3.1\WeatherApp.Domain.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\bin\Debug\netcoreapp3.1\WeatherApp.Domain.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Domain\obj\Debug\netcoreapp3.1\WeatherApp.Domain.genruntimeconfig.cache

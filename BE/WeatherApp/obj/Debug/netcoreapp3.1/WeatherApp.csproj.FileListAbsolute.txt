@@ -1,0 +1,251 @@
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.exe
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\staticwebassets\WeatherApp.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\staticwebassets\WeatherApp.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WeatherApp.styles.css
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.CopyComplete
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Models.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Services.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Shared.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Models.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Services.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Shared.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.exe
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Models.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Services.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Shared.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Models.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Services.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Shared.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\staticwebassets\WeatherApp.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\staticwebassets\WeatherApp.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WeatherApp.styles.css
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.CopyComplete
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.exe
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\MySql.EntityFrameworkCore.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Models.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Services.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Shared.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Models.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Services.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\bin\Debug\netcoreapp3.1\WeatherApp.Shared.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\staticwebassets\WeatherApp.StaticWebAssets.Manifest.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\staticwebassets\WeatherApp.StaticWebAssets.xml
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\WeatherApp.styles.css
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.RazorTargetAssemblyInfo.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.csproj.CopyComplete
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp\obj\Debug\netcoreapp3.1\WeatherApp.genruntimeconfig.cache

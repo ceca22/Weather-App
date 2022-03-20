@@ -1,0 +1,145 @@
+.home-page{
+    width: 100%;
+    height: auto;
+}
+
+.home-page-layer-two{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column-reverse;
+    z-index: 1;
+    
+}
+
+/* image container */
+.image-container, .sign-in, .sign-in-layer-two, .welcome, .join-today{
+    width: 100%;
+    height: auto;
+}
+
+.image-container-layer-two{
+    width: 100%;
+    height: 45vh;
+    background: url("../images/fall.jpg");
+    background-size: cover;
+}
+
+.welcome-span{
+    padding: 20px 0px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.join-today-span {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 0px;
+}
+
+.sign-in{
+    padding: 30px 20px;
+}
+
+/* sign in form */
+.sign-in-form {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.sign-in-form-layer-two {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.sign-in-form-layer-two label {
+    color: rgba(128, 128, 128, 0.411);
+}
+
+.sign-in-form-layer-two input{
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    border: 1px solid gray;
+    font-size: 15px;
+    padding-left: 10px;
+    margin:10px 0px;
+}
+
+.sign-in-form-layer-two input:focus,
+.sign-in-button-layer-two button:focus, 
+.sign-up-button-layer-two button:focus {
+    outline: none;
+}
+
+.sign-in-button-layer-two, .sign-up-button-layer-two{
+    padding: 10px 0px;
+}
+
+.sign-in-button-layer-two button, .sign-up-button-layer-two button{
+    width: 200px;
+    height: 35px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.new-here-span{
+    padding: 20px 0px;
+}
+
+/* .register-form{
+    position: fixed;
+    top:0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.76);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+
+@media (min-width: 1000px) 
+{
+    .home-page-layer-two{
+        width: 100%;
+        min-height: auto;
+        display: flex;
+        flex-direction: row;
+    }
+    .image-container, .sign-in{
+        width: 50%;
+        height: auto;
+    }
+
+    .sign-in-layer-two{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .image-container-layer-two{
+        width: 100%;
+        height: 100vh;
+        background-image: url("../images/fall.jpg");
+        background-size: cover;
+    }
+
+    .sign-in{
+        padding-left: 20px;
+    }
+    
+    
+    
+}

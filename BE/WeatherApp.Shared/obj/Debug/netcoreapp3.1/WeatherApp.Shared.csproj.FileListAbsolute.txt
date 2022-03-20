@@ -1,0 +1,24 @@
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\bin\Debug\netcoreapp3.1\WeatherApp.Shared.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\bin\Debug\netcoreapp3.1\WeatherApp.Shared.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\bin\Debug\netcoreapp3.1\WeatherApp.Shared.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\bin\Debug\netcoreapp3.1\WeatherApp.Shared.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\bin\Debug\netcoreapp3.1\WeatherApp.Shared.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\bin\Debug\netcoreapp3.1\WeatherApp.Shared.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\bin\Debug\netcoreapp3.1\WeatherApp.Shared.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\bin\Debug\netcoreapp3.1\WeatherApp.Shared.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\bin\Debug\netcoreapp3.1\WeatherApp.Shared.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\bin\Debug\netcoreapp3.1\WeatherApp.Shared.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Shared\obj\Debug\netcoreapp3.1\WeatherApp.Shared.genruntimeconfig.cache

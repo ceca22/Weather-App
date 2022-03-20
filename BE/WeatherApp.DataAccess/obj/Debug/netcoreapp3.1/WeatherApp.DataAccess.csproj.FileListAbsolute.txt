@@ -1,0 +1,30 @@
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.csproj.CopyComplete
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.csproj.CopyComplete
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.DataAccess\obj\Debug\netcoreapp3.1\WeatherApp.DataAccess.genruntimeconfig.cache

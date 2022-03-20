@@ -1,0 +1,51 @@
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Models.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Models.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.csproj.CopyComplete
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Models.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Models.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.csproj.CopyComplete
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - Copy\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.deps.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Models.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\bin\Debug\netcoreapp3.1\WeatherApp.Models.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.csproj.CopyComplete
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.dll
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.pdb
+C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Mappers\obj\Debug\netcoreapp3.1\WeatherApp.Mappers.genruntimeconfig.cache
