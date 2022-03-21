@@ -26,9 +26,9 @@ export class SearchComponent implements OnInit {
     this.sharedData.currentUserObservable.subscribe(message => this.currentUser = message);
     this.sharedData.initSubscriptionsCurrentUser();
     
-    
   }
 
+  
   initSubscriptionsWeather(){
      this.weatherSubscription = this.searchService.weatherSubject$.subscribe(
        (payload:Object) => {
@@ -46,7 +46,6 @@ export class SearchComponent implements OnInit {
 
   signOutUser(){
     this.userService.logoutUser();
-
   }
 
 

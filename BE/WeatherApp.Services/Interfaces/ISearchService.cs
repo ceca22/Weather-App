@@ -8,6 +8,8 @@ namespace WeatherApp.Services.Interfaces
 {
     public interface ISearchService
     {
-        Task<string> Search(CityModel search);
+        //Task<string> Search(CityModel search);
+        Task<string> Search(string search);
+
     }
 }

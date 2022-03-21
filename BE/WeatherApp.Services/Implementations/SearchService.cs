@@ -15,12 +15,14 @@ namespace WeatherApp.Services.Implementations
     {
 
         
-        public async Task<string> Search(CityModel search)
+        //public async Task<string> Search(CityModel search)
+        public async Task<string> Search(string search)
+
         {
             ApiHelper.InitializeClient();
 
             DataProccessor data = new DataProccessor();
-            string response = await data.LoadData(search.City);
+            string response = await data.LoadData(search);
 
 
             return response;

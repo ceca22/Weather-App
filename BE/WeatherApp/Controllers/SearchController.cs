@@ -23,12 +23,14 @@ namespace WeatherApp.Controllers
         }
 
 
-        [HttpPost]
-        public ActionResult<string> Search([FromBody] CityModel searchInput)
+        [HttpGet("{city}")]
+        //public ActionResult<string> Search([FromBody] CityModel searchInput)
+        public ActionResult<string> Search(string city)
+
         {
             try
             {
-                string result = _searchService.Search(searchInput).Result;
+                string result = _searchService.Search(city).Result;
                 return StatusCode(StatusCodes.Status200OK, result);
 
             }
