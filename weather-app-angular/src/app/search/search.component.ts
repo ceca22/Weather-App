@@ -17,15 +17,13 @@ export class SearchComponent implements OnInit {
   weather:Object;
   //
   weatherSubscription:Subscription;
-  // private weatherSubject = new BehaviorSubject<string>(new User());
-  // weatherObservable = this.weatherSubject.asObservable();
 
   constructor(private searchService:SearchWeatherService,
     private sharedData:SharedDataService,
     private userService:UserService) { }
 
   ngOnInit(): void {
-    this.sharedData.currentUserObservable.subscribe(x => this.currentUser = x);
+    this.sharedData.currentUserObservable.subscribe(message => this.currentUser = message);
     this.sharedData.initSubscriptionsCurrentUser();
     
     

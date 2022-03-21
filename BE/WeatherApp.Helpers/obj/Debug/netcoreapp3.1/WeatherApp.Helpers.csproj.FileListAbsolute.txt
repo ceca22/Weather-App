@@ -73,3 +73,28 @@ C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.H
 C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.dll
 C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.pdb
 C:\Users\Stefan\Desktop\kurs\job assignment\weather app - altaro\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.deps.json
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.runtimeconfig.json
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.dll
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Helpers.pdb
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.dll
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Domain.dll
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.dll
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Models.dll
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Services.dll
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Shared.dll
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.DataAccess.pdb
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Services.pdb
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Domain.pdb
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Mappers.pdb
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Models.pdb
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\bin\Debug\netcoreapp3.1\WeatherApp.Shared.pdb
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.csproj.CopyComplete
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.dll
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.pdb
+C:\Users\Stefan\Desktop\kurs\CV\Weather-App\BE\WeatherApp.Helpers\obj\Debug\netcoreapp3.1\WeatherApp.Helpers.genruntimeconfig.cache

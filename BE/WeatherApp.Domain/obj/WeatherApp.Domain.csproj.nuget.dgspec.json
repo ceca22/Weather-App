@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stefan\\Desktop\\kurs\\job assignment\\weather app - altaro\\BE\\WeatherApp.Domain\\WeatherApp.Domain.csproj": {}
+    "C:\\Users\\Stefan\\Desktop\\kurs\\CV\\Weather-App\\BE\\WeatherApp.Domain\\WeatherApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stefan\\Desktop\\kurs\\job assignment\\weather app - altaro\\BE\\WeatherApp.Domain\\WeatherApp.Domain.csproj": {
+    "C:\\Users\\Stefan\\Desktop\\kurs\\CV\\Weather-App\\BE\\WeatherApp.Domain\\WeatherApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\kurs\\job assignment\\weather app - altaro\\BE\\WeatherApp.Domain\\WeatherApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Stefan\\Desktop\\kurs\\CV\\Weather-App\\BE\\WeatherApp.Domain\\WeatherApp.Domain.csproj",
         "projectName": "WeatherApp.Domain",
-        "projectPath": "C:\\Users\\Stefan\\Desktop\\kurs\\job assignment\\weather app - altaro\\BE\\WeatherApp.Domain\\WeatherApp.Domain.csproj",
+        "projectPath": "C:\\Users\\Stefan\\Desktop\\kurs\\CV\\Weather-App\\BE\\WeatherApp.Domain\\WeatherApp.Domain.csproj",
         "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stefan\\Desktop\\kurs\\job assignment\\weather app - altaro\\BE\\WeatherApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Stefan\\Desktop\\kurs\\CV\\Weather-App\\BE\\WeatherApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

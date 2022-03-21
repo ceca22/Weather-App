@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YCLNwU7y87jXENY4mPs+4B2IQgOg4iIR6Kh4tVnKDNzW8D2CDb/YiP2EqgfwK8Jse6IdoC7+KUxpg6hOL6JTAw==",
+  "dgSpecHash": "i6Kd7jkj9UrE7JUkwZ/Eo78kP+XTAn6N7dym37dYqWqci5yREThkaWLXDBftdxk0xDdGj7HpKYLGYcEWxqQwhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stefan\\Desktop\\kurs\\job assignment\\weather app - altaro\\BE\\WeatherApp.Helpers\\WeatherApp.Helpers.csproj",
+  "projectFilePath": "C:\\Users\\Stefan\\Desktop\\kurs\\CV\\Weather-App\\BE\\WeatherApp.Helpers\\WeatherApp.Helpers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\google.protobuf\\3.14.0\\google.protobuf.3.14.0.nupkg.sha512",
